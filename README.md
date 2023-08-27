@@ -6,7 +6,7 @@ Welcome to my collection of web design projects! This repository showcases a var
 
 ### Project 1: Shopping List
 
-The Basic Shopping List Web App is a straightforward project developed using a combination of JavaScript, HTML, and CSS. This project aims to provide users with a simple and user-friendly platform to create and manage their shopping lists digitally. Users can quickly create a list of items they need to buy by entering item names into the provided input field. The application utilizes JavaScript to instantly update the displayed list as users add or remove items. The interface is designed to be intuitive, with a clean layout that displays the shopping list prominently. Items can be easily removed from the list with a single click, enhancing the flexibility of the list management process. The project features basic styling using CSS to ensure a visually appealing presentation. 
+This project aims to provide users with a simple and user-friendly platform to create and manage their shopping lists digitally. Users can quickly create an item by entering item name into the provided input field. Items can easily be removed from the list with a single click. The application utilizes JavaScript to instantly update the displayed list as users add or remove items. There is also a "filter item" input field to search for a specific item and a clear all after the user has finished gathering all their items.
 
 <!--### Project 0: [Project Name]-->
 <!--Brief description of the project and its purpose. Highlight any key features, technologies used, and design inspiration. Include a screenshot or link to a live demo if available.-->
@@ -16,7 +16,7 @@ The Basic Shopping List Web App is a straightforward project developed using a c
 - HTML
 - CSS (including CSS frameworks, if used)
 - JavaScript (and any libraries or frameworks)
-- [Other technologies or tools used]
+<!--- [Other technologies or tools used] -->
 
 ## Getting Started
 
