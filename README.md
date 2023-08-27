@@ -6,7 +6,7 @@ Welcome to my collection of web design projects! This repository showcases a var
 
 ### Project 1: Shopping List
 
-This project aims to provide users with a simple and user-friendly platform to create and manage their shopping lists digitally. Users can quickly create an item by entering item name into the provided input field. Items can easily be removed from the list with a single click. The application utilizes JavaScript to instantly update the displayed list as users add or remove items. There is also a "filter item" input field to search for a specific item and a clear all after the user has finished gathering all their items.
+This project aims to provide users with a simple and user-friendly platform to create and manage their shopping lists digitally. The application utilizes JavaScript to instantly update the displayed list as users add or remove items. There is also a "filter item" input field to search for a specific item and a clear all after the user has finished gathering all their items. All their changes are saved locally.
 
 <!--### Project 0: [Project Name]-->
 <!--Brief description of the project and its purpose. Highlight any key features, technologies used, and design inspiration. Include a screenshot or link to a live demo if available.-->
