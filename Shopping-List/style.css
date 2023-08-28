@@ -17,6 +17,7 @@ body {
   line-height: 1.5;
   color: hsl(0, 0%, 16%);
   background: linear-gradient(45deg, #fdfbfb, #ebedee);
+  /* background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%); */
 }
 
 header {
@@ -63,7 +64,7 @@ header h1 {
 
 /* Buttons */
 .btn {
-  background-color: #ccc;
+  background-color: hsl(0, 0%, 20%);
   color: #fff;
   border: none;
   border-radius: 5px;
