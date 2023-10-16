@@ -1,0 +1,6 @@
+[submodule "Sortable-List-Game"]
+	path = Sortable-List-Game
+	url = https://github.com/DArlegui/Sortable-List-Game
+[submodule "StopWatch"]
+	path = StopWatch
+	url = https://github.com/DArlegui/StopWatch
