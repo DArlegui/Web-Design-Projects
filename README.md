@@ -2,7 +2,7 @@
 
 Welcome to my collection of web design projects! This repository showcases a variety of web pages and applications that I've developed using HTML, CSS, and JavaScript. Each project is designed to demonstrate my skills in creating interactive and visually appealing web experiences.
 
-## Project 1: Shopping List
+# Project 1: Shopping List
 
 [Live Demo Here](https://fascinating-gumption-baa35a.netlify.app/)
 
